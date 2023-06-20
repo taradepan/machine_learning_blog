@@ -7,7 +7,7 @@ To run the code:
 1. Clone the repository
 2. Run the following command in the terminal
 ```
-python3 <filename.py>
+python <filename.py>
 ```
 
 Feel free to contribute to this repository :)
